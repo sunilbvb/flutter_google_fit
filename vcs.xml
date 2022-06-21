@@ -14,6 +14,18 @@
           <option name="url" value="https://github.com/sunilbvb/google_fit_step_counter" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sunilbvb/good_fluency" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sunilbvb:TPETACRIJyo8uV5a@github.com/sunilbvb/good_fluency" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sunilbvb@github.com/sunilbvb/good_fluency" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
