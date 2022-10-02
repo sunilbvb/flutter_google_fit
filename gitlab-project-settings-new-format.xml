@@ -5,6 +5,7 @@
         <GitlabServer>
           <option name="apiToken" value="glpat-C82RH7y4Mo5tJ1x3ZwZs" />
           <option name="apiUrl" value="https://gitlab.com/" />
+          <option name="preferredConnection" value="HTTPS" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
       </list>
