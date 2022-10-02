@@ -3,7 +3,7 @@
     <option name="gitlabServers">
       <list>
         <GitlabServer>
-          <option name="apiToken" value="glpat-j17aEpzz421yz4GQbWzA" />
+          <option name="apiToken" value="glpat-C82RH7y4Mo5tJ1x3ZwZs" />
           <option name="apiUrl" value="https://gitlab.com/" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
